@@ -1,0 +1,21 @@
+body {
+  background-image: url('24701-nature-natural-beauty.jpg');
+  background-size: cover;
+}
+
+img {
+  z-index: -1;
+  right: 10px;
+  top: 10px;
+  position: absolute;
+}
+
+.content {
+  text-align: right;
+  font-size: 10px;
+  font-weight: bold;
+  background-color: white;
+  border: 5px solid white;
+  width: 50%;
+  float: right;
+}
